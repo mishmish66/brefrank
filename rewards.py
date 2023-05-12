@@ -41,4 +41,4 @@ def tall_reward(state: envs.State, action: jax.Array) -> jax.Array:
     return state.reward + z_height * 0.25
 
 
-rewards = [flying_reward, lazy_reward, steady_reward, tall_reward]
+reward_flavors = [flying_reward, lazy_reward, steady_reward, tall_reward]
