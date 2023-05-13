@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "mads-hartmann.bash-ide-vscode",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-powertoys"
+    ]
+}
