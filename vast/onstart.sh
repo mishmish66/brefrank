@@ -21,4 +21,4 @@ conda install python=3.11 -y
 # Install Jupyter Notebook using pip
 pip install notebook
 
-jupyter notebook --no-browser --NotebookApp.allow_origin='*' --port 8081 --allow-root --ip='*'
+jupyter notebook --no-browser --NotebookApp.allow_origin='*' --port 8081 --allow-root --ip='*' --NotebookApp.token='' --NotebookApp.password='7GGNcV^SdWaj5Z#ZB8pdBbm'
